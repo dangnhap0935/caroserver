@@ -26,8 +26,8 @@ var exports_2 = {
 
 // these exports are for uploading to heroku
 var exports_3 = {
-    'client-domain': 'https://btgk-1612422.herokuapp.com/',
-    'server-domain': 'https://btcn06-1612422.herokuapp.com/',
+    'client-domain': 'https://carohalo23.herokuapp.com/',
+    'server-domain': 'https://caroserverhalo23.herokuapp.com/',
     'database': {
         'host': 'sql12.freemysqlhosting.net',
         'port': '3306',
